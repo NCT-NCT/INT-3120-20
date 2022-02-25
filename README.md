@@ -1,3 +1,4 @@
 # INT-3120-20  
-week1: code hello_world
-  
+NGUYỄN CHÍ THANH
+MSSV: 19021364
+Week 1 : code hello_world
